@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**CodeWizardAn/CodeWizardAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Scientist | Python Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+Hey there! I'm passionate about turning data into impactful insights. I love building intelligent systems using Python, machine learning, and data visualization. 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔍 Projects:
+- 📈 Stock Price Predictor
+- 🎬 Movie Recommendation System
+- 💰 AI Personal Finance Advisor
+- 🧠 Titanic Survival Predictor (Logistic Regression)
+
+🛠️ Skills: Python, Pandas, Scikit-Learn, Matplotlib, Streamlit, NumPy
+
+🌱 Currently learning: Deep Learning & Streamlit Web App Development
+
+🎯 Goal: Solve real-world problems using data and AI. Always open to collaboration and new ideas!
+
+
 -->
