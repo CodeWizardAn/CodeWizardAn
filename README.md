@@ -43,7 +43,7 @@ To blend my technical skills, creativity, and love for innovation into building 
 
 ### 🌐 Let's Connect!
 
-📫 **Email**: codewizardan@gmaail.com
+📫 **Email**: codewizardan@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/codewizardAN)
 
 ---
