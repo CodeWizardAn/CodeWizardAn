@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Advaith ..You can call me advy ..
+## 👋 Hello, I'm Advaith 
 
 I'm an enthusiastic **Engineering student** with a deep passion for **Data Science**, **Technology**, and **Sports Analytics**. I believe that data has the power to uncover hidden patterns, drive smarter decisions, and change the world — one model at a time.
 
