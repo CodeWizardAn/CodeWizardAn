@@ -204,11 +204,7 @@ Cloud Storage / AI Models
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
 
-![snake gif](https://github.com/CodeWizardAn/CodeWizardAn/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 💬 CORE PHILOSOPHY
 
