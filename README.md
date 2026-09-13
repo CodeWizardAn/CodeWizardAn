@@ -26,7 +26,6 @@ class Advaith:
 ## 🚀 FEATURED PROJECTS
 
 ### 🏭 YantraAI — Sovereign Agentic AI Workbench
-*Smart India Hackathon (SIH26117) — for MRPL, a PSU refinery*
 
 Air-gapped, self-hosted agentic workbench for processing confidential industrial documents without data ever leaving the org.
 
@@ -36,7 +35,7 @@ Air-gapped, self-hosted agentic workbench for processing confidential industrial
 - Sandboxed code execution with a self-repair loop
 - Own backend + database end-to-end
 
-`FastAPI` `RAG` `Agentic Workflows` `On-Prem LLMs` — [github.com/CodeWizardAn/YantraAI](https://github.com/CodeWizardAn/YantraAI)
+`FastAPI` `RAG` `Agentic Workflows` `On-Prem LLMs`
 
 ---
 
