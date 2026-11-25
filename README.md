@@ -55,13 +55,13 @@
 </td>
 <td width="50%" valign="top">
 
-<h3>📁 GDG × Multiverse</h3>
-<img src="https://img.shields.io/badge/GDG_On_Campus-4285F4?style=flat-square"/>
-<p>scroll-driven platform with Google OAuth, a Judge0 code compiler and a live leaderboard. built end to end.</p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Judge0-1f2937?style=flat-square"/>
-<p><a href="https://github.com/CodeWizardAn/REPO-NAME"><b>open the folder →</b></a></p>
+<h3>📁 Zhoosh</h3>
+<img src="https://img.shields.io/badge/STATUS-8B5CF6?style=flat-square"/>
+<p>ONE-LINE PITCH: what Zhoosh does and who it's for.</p>
+<img src="https://img.shields.io/badge/TECH_1-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/TECH_2-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/TECH_3-1f2937?style=flat-square"/>
+<p><a href="https://github.com/CodeWizardAn/Zhoosh"><b>open the folder →</b></a></p>
 
 </td>
 </tr>
