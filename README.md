@@ -56,12 +56,13 @@
 <td width="50%" valign="top">
 
 <h3>📁 Zhoosh</h3>
-<img src="https://img.shields.io/badge/STATUS-8B5CF6?style=flat-square"/>
-<p>ONE-LINE PITCH: what Zhoosh does and who it's for.</p>
-<img src="https://img.shields.io/badge/TECH_1-1f2937?style=flat-square"/>
-<img src="https://img.shields.io/badge/TECH_2-1f2937?style=flat-square"/>
-<img src="https://img.shields.io/badge/TECH_3-1f2937?style=flat-square"/>
-<p><a href="https://github.com/CodeWizardAn/Zhoosh"><b>open the folder →</b></a></p>
+<img src="https://img.shields.io/badge/Capstone_·_Live-E50914?style=flat-square"/>
+<p>movies and music discovery in one app. a content-based recommender, a chat agent grounded in real TMDB and Spotify data, and a draggable split-screen UI.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square"/>
+<p><a href="https://github.com/CodeWizardAn/Zhoosh"><b>open the folder →</b></a> · <a href="https://zhoosh-eight.vercel.app"><b>live demo →</b></a></p>
 
 </td>
 </tr>
