@@ -1,8 +1,5 @@
-<h1 align="center">Advaith Nair</h1>
-<h3 align="center">backend dev · AI/ML · technical lead @ GDG On Campus</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=multi-agent+systems+that+ship%2C+not+just+demo;RAG+pipelines+in+production;leading+tech+at+GDG+On+Campus"/>
+  <img src="./hero.svg" alt="Advaith Nair: I build multi-agent systems, RAG pipelines, FastAPI backends" width="900"/>
 </p>
 
 <p align="center">
